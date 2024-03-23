@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Tue Jan 10 17:23:18 2023
 
-@author: svmah
+@author: sumedh joshi
 """
 
 import smtplib

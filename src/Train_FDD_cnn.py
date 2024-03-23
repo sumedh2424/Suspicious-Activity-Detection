@@ -1,6 +1,4 @@
-
 def main():
-    
     #Import some packages to use
     import numpy as np
     

@@ -1,13 +1,9 @@
 import tkinter as tk
-# from tkinter import *
 from tkinter import messagebox as ms
 import sqlite3
 from PIL import Image, ImageTk
 import re
 import random
-import os
-import cv2
-
 
 window = tk.Tk()
 window.geometry("600x800")
