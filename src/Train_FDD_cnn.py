@@ -129,7 +129,7 @@ def main():
     model.save(MODEL_NAME)
     
     predictions = model.predict(X_train)
-    
+    #cnn algorithm is use
     ##################################################################################
     
     
